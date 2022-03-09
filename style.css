@@ -21,6 +21,7 @@ body {
   justify-content: space-between;
   padding: 25px;
   margin: 10px;
+  opacity: 80%;
 }
 
 .box {
@@ -36,6 +37,7 @@ body {
   min-height: 150px;
   justify-content: space-between;
   padding: 25px;
+  opacity: 80%;
 }
 
 .box-npc-name {

@@ -5,6 +5,7 @@ header {
   margin-left: auto;
   margin-right: auto;
   padding: 25px;
+  opacity: 80%
 } 
 
 body {
@@ -66,6 +67,7 @@ body {
 
 .box-npc-see-also {
   background-color: rgba(13, 36, 85, 0.733);
+  background-size: contain;
   border: 1px solid white;
   padding: 25px;
   width: 20%;

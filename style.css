@@ -79,7 +79,7 @@ body {
 
 .container-test1 {
   /* background-color: rgb(85, 55, 79); */
-  background-image: url('amusement_park_night.jpg');
+  /*background-image: url('amusement_park_night.jpg');*/
   background-size: cover;
   display: flex;
   flex-direction: column;

@@ -37,7 +37,7 @@ body {
   min-height: 150px;
   justify-content: space-between;
   padding: 25px;
-  opacity: 80%;
+  opacity: 90%;
 }
 
 .box-npc-name {
@@ -45,7 +45,7 @@ body {
   border: 1px solid white;
   padding: 25px;
   width: 20%;
-  opacity: 85%;
+  opacity: 95%;
 }
 
 .box-npc-location {
@@ -53,7 +53,7 @@ body {
   border: 1px solid white;
   padding: 25px;
   width: 20%;
-  opacity: 85%;
+  opacity: 95%;
 }
 
 .box-npc-details {
@@ -61,7 +61,7 @@ body {
   border: 1px solid white;
   padding: 25px;
   width: 20%;
-  opacity: 85%;
+  opacity: 95%;
 }
 
 .box-npc-see-also {
@@ -69,7 +69,7 @@ body {
   border: 1px solid white;
   padding: 25px;
   width: 20%;
-  opacity: 85%;
+  opacity: 95%;
 }
 
 .title {

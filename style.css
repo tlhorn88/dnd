@@ -45,6 +45,7 @@ body {
   border: 1px solid white;
   padding: 25px;
   width: 20%;
+  opacity: 85%;
 }
 
 .box-npc-location {
@@ -52,6 +53,7 @@ body {
   border: 1px solid white;
   padding: 25px;
   width: 20%;
+  opacity: 85%;
 }
 
 .box-npc-details {
@@ -59,6 +61,7 @@ body {
   border: 1px solid white;
   padding: 25px;
   width: 20%;
+  opacity: 85%;
 }
 
 .box-npc-see-also {
@@ -66,6 +69,7 @@ body {
   border: 1px solid white;
   padding: 25px;
   width: 20%;
+  opacity: 85%;
 }
 
 .title {

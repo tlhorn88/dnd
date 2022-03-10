@@ -94,8 +94,6 @@ header h1 {
 }
 
 .container-test1 {
-  /* background-color: rgb(85, 55, 79); */
-  /*background-image: url('amusement_park_night.jpg');*/
   background-size: cover;
   display: flex;
   flex-direction: column;
@@ -104,7 +102,7 @@ header h1 {
   justify-content: space-between;
   padding: 25px;
   margin: 10px;
-  height: 450px;
+  height: 500px;
   overflow: auto;
 }
 
@@ -113,4 +111,36 @@ header h1 {
   width: 100%;
   justify-content: space-around;
   margin-top: 10px;;
+}
+
+.button_slide {
+  color: #FFF;
+  border: 2px solid rgb(216, 2, 134);
+  border-radius: 0px;
+  padding: 18px 36px;
+  display: inline-block;
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 14px;
+  letter-spacing: 1px;
+  cursor: pointer;
+  box-shadow: inset 0 0 0 0 #D80286;
+  -webkit-transition: ease-out 0.4s;
+  -moz-transition: ease-out 0.4s;
+  transition: ease-out 0.4s;
+  margin: 10px;
+}
+
+
+
+.slide_right:hover {
+  box-shadow: inset 400px 0 0 0 #D80286;
+}
+
+#outer {
+  display: flex;
+  width: 100%;
+  margin: 10 px auto;
+  text-align: center;
+  padding: 25px;
+  justify-content: center;
 }

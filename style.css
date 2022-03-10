@@ -2,10 +2,10 @@ header {
   background-image: url('amusement_park_night.jpg');
   font-size: 45px;
   width: 85%;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 25px auto;
   padding: 25px;
-  opacity: 80%
+  opacity: 75%;
+  background-position: center;
 } 
 
 body {
@@ -13,6 +13,21 @@ body {
   color: white;
   background-color: gray;
   font-family: "lucida console";
+}
+
+header h1 {
+  background-color: rgb(136, 141, 146);
+  opacity: 80%;
+  padding: 25px;
+  color: #fff;
+}
+
+.breadcrumbs li {
+  display: inline;
+}
+
+.breadcrumbs li::before {
+ content: ' || ';
 }
 
 .container {
@@ -26,7 +41,7 @@ body {
 }
 
 .box {
-  background-color: rgba(107, 101, 101, 0.733);
+  background-color: rgba(190, 120, 120, 0.733);
   border: 1px solid white;
   padding: 25px;
 }
